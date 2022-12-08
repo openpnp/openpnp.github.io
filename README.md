@@ -34,10 +34,10 @@ Sponsorship and Thanks
 
 OpenPnP is currently accepting sponsorship and in-kind donations to fund further development. Thank you to our software sponsors:
 
-[![Screen Shot 2016-02-23 at 8.18.49 AM](uploads/2015/03/Screen-Shot-2016-02-23-at-8.18.49-AM.png)](http://www.ej-technologies.com/)  
+[![Screen Shot 2016-02-23 at 8.18.49 AM](./uploads/2015/03/Screen-Shot-2016-02-23-at-8.18.49-AM.png)](http://www.ej-technologies.com/)  
 Thanks to [ej-technologies](http://www.ej-technologies.com/) for providing a complimentary license of install4j. install4j creates high quality, professional installers for Java applications.
 
 More information at <http://www.ej-technologies.com/products/install4j/overview.html>.
 
-[![0](uploads/2015/03/0.png)](https://www.yourkit.com/)  
+[![0](./uploads/2015/03/0.png)](https://www.yourkit.com/)  
 Thanks to YourKit for providing a complimentary license of YourKit Java Profiler. YourKit supports open source projects with its full-featured Java Profiler. YourKit, LLC is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/index.jsp) and [YourKit .NET Profiler](https://www.yourkit.com/.net/profiler/index.jsp), innovative and intelligent tools for profiling Java and .NET applications.
