@@ -2,7 +2,7 @@
 title: OpenPnP
 date: '2015-03-20T07:22:13-07:00'
 status: publish
-permalink: ''
+permalink: '/'
 author: vonnieda
 excerpt: ''
 type: page
