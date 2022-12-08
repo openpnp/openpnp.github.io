@@ -1,4 +1,4 @@
-- [ ] Convert tables in downloads and test-downloads. 
+- [x] Convert tables in downloads and test-downloads. 
 - [ ] Try to replicate theme from openpnp.org
 - [ ] Figure out how to disable display of frontmatter.
 - [ ] Email group for review.
@@ -6,6 +6,8 @@
 - [ ] Redirect domain.
 - [ ] Announce change to group and suggest PRs for i18n.
 
+
+Doesn't work: `docker run --rm --volume="$PWD:/srv/jekyll:Z" --publish [::1]:4000:4000 jekyll/jekyll jekyll serve`
 
 
 
