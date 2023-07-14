@@ -55,6 +55,10 @@ Feeders
 
 [Mica Feeder](https://github.com/openpnp/mica-feeder) by Pham Thang – Automatic SMT tape feeder using small DC gear motors.
 
+[Easy PnP Feeder](https://easypnpfeeder.com/) - An autofeeder that detects when a part has been removed, and advances the tape ready for the next pickup so no controller is required. Sold as a kit with optional 3D-printed parts. Doesn't appear to be open source: STLs for the parts are provided once a kit has been purchased.
+
+[MAX Feeder](https://github.com/CurlyTaleGamesLLC/MAXFeederShield) by Curly Tale Games - Inspired by the MGRL0816 feeder but totally redesigned. All design files are provided and there is also a matching controller shield design.
+
 Components
 ----------
 
