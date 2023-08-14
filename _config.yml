@@ -1,3 +1,28 @@
 title: OpenPnP
 description: OpenPnP - Open Source SMT Pick and Place
+#email: jason@vonnieda.org
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: openpnp
+#github_username:  openpnp/openpnp
+#youtube_username: OpenPnPSMT
 
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - hardware.md
+  - downloads.md
+
+# defaults:
+#   -
+#     scope:
+#       path: "" # an empty string here means all files in the project
+#     values:
+#       layout: "default"
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
