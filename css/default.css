@@ -45,6 +45,7 @@ a {
 }
 
 #main_nav {
+	padding-left: 0;
 	list-style: none;
 
 	display: flex;
