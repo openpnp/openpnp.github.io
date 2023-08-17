@@ -1,15 +1,6 @@
 ---
-title: Downloads
-date: '2015-06-25T22:32:06-07:00'
-status: publish
-permalink: /downloads
-author: vonnieda
-excerpt: ''
-type: page
-id: 40
-views:
-    - '106991'
 ---
+
 OpenPnP is available for download for Mac, Windows and Linux. There are two versions available: OpenPnP 2.0 and OpenPnP 1.0. We recommend OpenPnp 2.0 for most users.
 
 OpenPnP 2.0 is built continuously. It contains the latest features but may also contain new bugs. An archive of previous versions is available below.

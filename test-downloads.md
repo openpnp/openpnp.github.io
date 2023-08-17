@@ -1,15 +1,6 @@
 ---
-title: 'Test Downloads'
-date: '2016-12-30T07:38:22-08:00'
-status: publish
-permalink: /test-downloads
-author: vonnieda
-excerpt: ''
-type: page
-id: 121
-views:
-    - '13121'
 ---
+
 This is the Test branch. You should only use it if you have been asked to test a specific feature. These downloads may contain bugs and unfinished features.
 
 While your download finishes, why not have a look at the [Quick Start Guide](https://github.com/openpnp/openpnp/wiki/Quick-Start) to get the ball rolling?

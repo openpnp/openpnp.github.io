@@ -1,14 +1,4 @@
 ---
-title: Hardware
-date: '2015-12-03T16:46:07-08:00'
-status: publish
-permalink: /hardware
-author: vonnieda
-excerpt: ''
-type: page
-id: 56
-views:
-    - '240294'
 ---
 
 A list of official OpenPnP designs and community contributed hardware that is OpenPnP compatible. If you would like your design featured here, please email <jason@vonnieda.org>.
